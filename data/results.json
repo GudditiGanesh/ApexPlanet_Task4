@@ -1,0 +1,342 @@
+{
+  "kpis": {
+    "Total Revenue": 139399439.65,
+    "Total Orders": 1000,
+    "Unique Customers": 947,
+    "Average Order Value": 139399.43965000001,
+    "Median Order Value": 108594.025,
+    "Units Sold": 5435,
+    "Repeat Customer Rate": 0.054910242872228086,
+    "Top Category": "Electronics",
+    "Top Category Revenue Share": 0.36426675621862875,
+    "Top City": "Patna",
+    "Top Product": "Laptop",
+    "Peak Month": "2025-03",
+    "Lowest Month": "2025-09",
+    "High Value Revenue Share": 0.47597110373319934
+  },
+  "quality": {
+    "rows": 1000,
+    "missing_age_imputed": 20,
+    "missing_city_labelled_unknown": 13,
+    "reused_order_ids": 9,
+    "full_duplicate_rows": 0,
+    "total_equals_qty_x_price": true,
+    "date_range": [
+      "2025-01-01",
+      "2026-01-01"
+    ]
+  },
+  "monthly": [
+    {
+      "Month": "2025-01",
+      "Revenue": 10096190.73,
+      "Orders": 76,
+      "Avg_Order_Value": 132844.61486842105,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2025-02",
+      "Revenue": 11511181.46,
+      "Orders": 86,
+      "Avg_Order_Value": 133850.94720930234,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2025-03",
+      "Revenue": 13059899.94,
+      "Orders": 89,
+      "Avg_Order_Value": 146740.44876404494,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2025-04",
+      "Revenue": 12222700.17,
+      "Orders": 80,
+      "Avg_Order_Value": 152783.752125,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2025-05",
+      "Revenue": 10984689.25,
+      "Orders": 85,
+      "Avg_Order_Value": 129231.63823529411,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2025-06",
+      "Revenue": 12912332.64,
+      "Orders": 83,
+      "Avg_Order_Value": 155570.27277108433,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2025-07",
+      "Revenue": 11746226.799999999,
+      "Orders": 83,
+      "Avg_Order_Value": 141520.8048192771,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2025-08",
+      "Revenue": 9448471.22,
+      "Orders": 75,
+      "Avg_Order_Value": 125979.61626666668,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2025-09",
+      "Revenue": 9179896.29,
+      "Orders": 79,
+      "Avg_Order_Value": 116201.21886075949,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2025-10",
+      "Revenue": 12500936.5,
+      "Orders": 84,
+      "Avg_Order_Value": 148820.67261904763,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2025-11",
+      "Revenue": 12627620.22,
+      "Orders": 77,
+      "Avg_Order_Value": 163995.0677922078,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2025-12",
+      "Revenue": 12299904.44,
+      "Orders": 98,
+      "Avg_Order_Value": 125509.22897959183,
+      "Complete_Month": true
+    },
+    {
+      "Month": "2026-01",
+      "Revenue": 809389.99,
+      "Orders": 5,
+      "Avg_Order_Value": 161877.998,
+      "Complete_Month": false
+    }
+  ],
+  "category": [
+    {
+      "Category": "Electronics",
+      "Revenue": 50778581.7,
+      "Orders": 354,
+      "AOV": 143442.32118644068
+    },
+    {
+      "Category": "Education",
+      "Revenue": 25031689.4,
+      "Orders": 178,
+      "AOV": 140627.46853932584
+    },
+    {
+      "Category": "Grocery",
+      "Revenue": 22231711.28,
+      "Orders": 153,
+      "AOV": 145305.30248366014
+    },
+    {
+      "Category": "Furniture",
+      "Revenue": 21521561.48,
+      "Orders": 159,
+      "AOV": 135355.73257861636
+    },
+    {
+      "Category": "Fashion",
+      "Revenue": 19835895.79,
+      "Orders": 156,
+      "AOV": 127153.17814102564
+    }
+  ],
+  "city": [
+    {
+      "City": "Patna",
+      "Revenue": 19285966.89,
+      "Orders": 135,
+      "AOV": 142859.014
+    },
+    {
+      "City": "Kolkata",
+      "Revenue": 18884349.57,
+      "Orders": 133,
+      "AOV": 141987.5907518797
+    },
+    {
+      "City": "Bengaluru",
+      "Revenue": 18773574.32,
+      "Orders": 122,
+      "AOV": 153881.75672131148
+    },
+    {
+      "City": "Mumbai",
+      "Revenue": 18757050.17,
+      "Orders": 131,
+      "AOV": 143183.58908396948
+    },
+    {
+      "City": "Hyderabad",
+      "Revenue": 17166766.87,
+      "Orders": 125,
+      "AOV": 137334.13496
+    },
+    {
+      "City": "Delhi",
+      "Revenue": 16097079.0,
+      "Orders": 125,
+      "AOV": 128776.632
+    },
+    {
+      "City": "Pune",
+      "Revenue": 14513175.9,
+      "Orders": 99,
+      "AOV": 146597.73636363636
+    },
+    {
+      "City": "Gaya",
+      "Revenue": 14380859.39,
+      "Orders": 117,
+      "AOV": 122913.32811965812
+    }
+  ],
+  "product": [
+    {
+      "Product": "Laptop",
+      "Revenue": 25443008.51,
+      "Orders": 170,
+      "AOV": 149664.75594117647
+    },
+    {
+      "Product": "Mobile",
+      "Revenue": 25335573.19,
+      "Orders": 184,
+      "AOV": 137693.33255434784
+    },
+    {
+      "Product": "Book",
+      "Revenue": 25031689.4,
+      "Orders": 178,
+      "AOV": 140627.46853932584
+    },
+    {
+      "Product": "Rice",
+      "Revenue": 22231711.28,
+      "Orders": 153,
+      "AOV": 145305.30248366014
+    },
+    {
+      "Product": "Chair",
+      "Revenue": 21521561.48,
+      "Orders": 159,
+      "AOV": 135355.73257861636
+    },
+    {
+      "Product": "Shoes",
+      "Revenue": 19835895.79,
+      "Orders": 156,
+      "AOV": 127153.17814102564
+    }
+  ],
+  "age": [
+    {
+      "Age_Group": "18-25",
+      "Revenue": 22284096.94,
+      "Orders": 158,
+      "AOV": 141038.58822784811
+    },
+    {
+      "Age_Group": "26-35",
+      "Revenue": 29632336.96,
+      "Orders": 219,
+      "AOV": 135307.47470319635
+    },
+    {
+      "Age_Group": "36-45",
+      "Revenue": 31533245.71,
+      "Orders": 223,
+      "AOV": 141404.68928251122
+    },
+    {
+      "Age_Group": "46-55",
+      "Revenue": 28216508.63,
+      "Orders": 202,
+      "AOV": 139685.68628712872
+    },
+    {
+      "Age_Group": "56-65",
+      "Revenue": 27733251.41,
+      "Orders": 198,
+      "AOV": 140066.92631313132
+    }
+  ],
+  "segments": [
+    {
+      "Segment": "High Value",
+      "Customers": 190,
+      "Revenue": 66350105.15,
+      "Customer_Share": 0.2006335797254488,
+      "Revenue_Share": 0.47597110373319934
+    },
+    {
+      "Segment": "Mid Value",
+      "Customers": 378,
+      "Revenue": 57620813.33,
+      "Customer_Share": 0.3991552270327349,
+      "Revenue_Share": 0.41335039419579195
+    },
+    {
+      "Segment": "Low Value",
+      "Customers": 379,
+      "Revenue": 15428521.17,
+      "Customer_Share": 0.40021119324181625,
+      "Revenue_Share": 0.11067850207100888
+    }
+  ],
+  "hypothesis": {
+    "alpha": 0.05,
+    "n_electronics": 354,
+    "n_fashion": 156,
+    "mean_electronics": 143442.32118644068,
+    "mean_fashion": 127153.17814102564,
+    "median_electronics": 114521.4,
+    "median_fashion": 101570.32,
+    "mean_ci_electronics": [
+      131149.48834221778,
+      155735.15403066357
+    ],
+    "mean_ci_fashion": [
+      110522.98548419471,
+      143783.37079785657
+    ],
+    "skew_electronics": 0.9822447863651161,
+    "skew_fashion": 1.1982953175931905,
+    "levene_p": 0.09329542166951905,
+    "welch_t": 1.5535126183025891,
+    "welch_df": 329.0741724548586,
+    "welch_p": 0.060630947424000395,
+    "mannwhitney_p": 0.11617508551490302,
+    "log_welch_p": 0.21253457281545782,
+    "cohens_d": 0.14295401425707063,
+    "diff": 16289.14304541504,
+    "diff_pct": 0.12810645619371577,
+    "diff_ci95": [
+      -4337.652184125462,
+      36915.93827495554
+    ],
+    "diff_lower_one_sided": -1006.4335864485365,
+    "bootstrap_ci95": [
+      -4546.410426254888,
+      36907.87441460238
+    ],
+    "bootstrap_prob_gt0": 0.9401,
+    "n_per_group_for_80pct_power": 606,
+    "anova_p": 0.5802864995733577,
+    "anova_F": 0.7171167721714614,
+    "kruskal_p": 0.7345384569224721,
+    "decision": "Fail to reject H0",
+    "conclusion": "The evidence is not strong enough at the 5% level to say Electronics orders are larger than Fashion orders; the observed gap is consistent with random variation."
+  }
+}
